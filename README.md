@@ -1,2 +1,17 @@
-# Lab_UAS
-Mohon Maaf masih gagal dan belum selesai 
+# UAS_Pemrograman WEB
+
+Nama : Didi Kumaedi
+
+Kelas : TI.20.D1
+
+NIM : 312010002
+
+Matkul: Pemograman Web
+
+# UJIAN AKHIR SEMESTER GENAP
+
+User Username : kumkum
+
+Password : 312010002
+
+Link WEB Hosting :  http://kumaedi.my.id/
